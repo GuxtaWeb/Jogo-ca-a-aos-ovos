@@ -1,1 +1,1 @@
-# Um simples jogo de advinhação em JavaScript
+# Um simples jogo de adivinhação
