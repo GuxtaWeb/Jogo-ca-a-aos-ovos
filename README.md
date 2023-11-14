@@ -1,1 +1,1 @@
-# Jogo-ca-a-aos-ovos
+# Um simples jogo de advinhação em JavaScript
